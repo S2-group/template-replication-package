@@ -2,7 +2,7 @@
 This repository is a companion page for the following thesis / publication:
 > Author Names. Publication year. Thesis / Paper title. Publication venue / proceedings.
 
-It contains all the material required for replicating the experiments, including: X, Y, and Z.
+It contains all the material required for replicating the study, including: X, Y, and Z.
 
 Quick start
 ---------------
@@ -34,8 +34,8 @@ This is the root directory of the repository. The directory is structured as fol
   
 
 Usually, replication packages should include:
-* a [src](src/) folder, containing the entirety ofnthe source code used in the study,
+* a [src](src/) folder, containing the entirety of the source code used in the study,
 * a [data](data/) folder, containing the raw, intermediate, and final data of the study
 * if needed, a [documentation](documentation/) folder, where additional information w.r.t. this README is provided. 
 
-In addition, the replication can include additional data / results (in form of raw data, tables, and/or diagrams) which were not included in the study manuscript.
+In addition, the replication package can include additional data/results (in form of raw data, tables, and/or diagrams) which were not included in the study manuscript.
