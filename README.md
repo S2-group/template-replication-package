@@ -4,6 +4,22 @@ This repository is a companion page for the following thesis / publication:
 
 It contains all the material required for replicating the study, including: X, Y, and Z.
 
+## How to cite us
+The scientific article describing design, execution, and main results of this study is available [here](https://www.google.com).<br> 
+If this study is helping your research, consider to cite it is as follows, thanks!
+
+```
+@article{,
+  title={},
+  author={},
+  journal={},
+  volume={},
+  pages={},
+  year={},
+  publisher={}
+}
+```
+
 Quick start
 ---------------
 Here a documentation on how to use the replication material should be provided.
