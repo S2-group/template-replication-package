@@ -54,4 +54,8 @@ Usually, replication packages should include:
 
 In addition, the replication package can include additional data/results (in form of raw data, tables, and/or diagrams) which were not included in the study manuscript.
 
+## Replication package naming convention
+The final name of this repository, as appearing in the published article, should be formatted according to the following naming convention:
+`<short conference/journal name>-<yyyy>-<semantic word>-<semantic word>-rep-pkg`
 
+For example, the repository of a research published at the International conference on ICT for Sustainability (ICT4S) in 2022, which investigates cloud tactics would be named `ICT4S-2022-cloud-tactics-rep-pkg`
