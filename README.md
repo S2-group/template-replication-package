@@ -20,8 +20,7 @@ If this study is helping your research, consider to cite it is as follows, thank
 }
 ```
 
-Quick start
----------------
+## Quick start
 Here a documentation on how to use the replication material should be provided.
 
 ### Getting started
@@ -33,8 +32,7 @@ Here a documentation on how to use the replication material should be provided.
 
 3. Links to specific folders / files of the repository can be linked in Markdown, for example this is a link to the [src](src/) folder.
 
-Repository Structure
----------------
+## Repository Structure
 This is the root directory of the repository. The directory is structured as follows:
 
     template-replication-package
@@ -55,3 +53,5 @@ Usually, replication packages should include:
 * if needed, a [documentation](documentation/) folder, where additional information w.r.t. this README is provided. 
 
 In addition, the replication package can include additional data/results (in form of raw data, tables, and/or diagrams) which were not included in the study manuscript.
+
+
