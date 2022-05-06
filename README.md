@@ -59,3 +59,10 @@ The final name of this repository, as appearing in the published article, should
 `<short conference/journal name>-<yyyy>-<semantic word>-<semantic word>-rep-pkg`
 
 For example, the repository of a research published at the International conference on ICT for Sustainability (ICT4S) in 2022, which investigates cloud tactics would be named `ICT4S-2022-cloud-tactics-rep-pkg`
+
+## Preferred repository license
+As general indication, we suggest to use:
+* [MIT license](https://opensource.org/licenses/MIT) for code-based repositories, and 
+* [Creative Commons Attribution 4.0	(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) for text-based repository (papers, docts, etc.).
+
+For more information on how to add a license to your replication package, refer to the [official GitHUb documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
